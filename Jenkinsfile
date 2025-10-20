@@ -25,7 +25,7 @@ pipeline {
         stage('display message')
         {
             steps {
-                echo 'Hello from github
+                echo 'Hello from github'
             }
         }
     }
